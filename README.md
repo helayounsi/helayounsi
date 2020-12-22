@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on open source.
 - 🤔 I’m looking for help with learning python.
 - 💬 Ask me about soft skills 
-- 📫 How to reach me: linkedIn: in/héla-younsi
+- 📫 How to reach me on linkedIn: in/héla-younsi
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I can sleep everywhere !!! :)
 -->
