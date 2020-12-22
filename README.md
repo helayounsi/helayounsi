@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**helayounsi/helayounsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me on linkedIn: in/héla-younsi
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I can sleep everywhere !!! :)
--->
+
