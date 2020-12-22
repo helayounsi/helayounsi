@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-Here are some ideas to get you started:
+### Hi there 👋 My name is Héla Younsi. 
 
 - 🔭 I’m currently working on improving my software developpement technical skills.
 - 🌱 I’m currently learning View as a front end technology.
