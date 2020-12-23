@@ -13,6 +13,9 @@
 - 💬 Ask me about soft skills 
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I can sleep everywhere !!! :laughing:
-- 📫 How to reach me on Email or on my linkedIn account.
+- 📫 You can reach me on:
+Email 
+or on 
+linkedIn
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
