@@ -14,8 +14,8 @@
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I can sleep everywhere !!! :laughing:
 - 📫 You can reach me on:
-Email 
-or on 
-linkedIn
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+</br>
+<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> LinkedIn: https://www.linkedin.com/in/h%C3%A9la-younsi-7041a018a/
+</br>
+<img align="left" alt="holisitc_developer | Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/New_Logo_Gmail.svg" /> Email: hela.ahmedyounsi@gmail.com
 
