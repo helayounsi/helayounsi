@@ -1,4 +1,5 @@
-### Hi! there 👋 Happy to meet you. My name is Héla Younsi.
+### Hi! there 👋 Happy to meet you. 
+## My name is Héla Younsi :woman:
 
  <img align="right" alt="GIF" src="https://vidhi-mody.github.io/img/me.gif" width="500" height="320" />
  
@@ -10,7 +11,8 @@
 - 👯 I’m looking to collaborate on open source.
 - 🤔 I’m looking for help with learning python.
 - 💬 Ask me about soft skills 
-- 📫 How to reach me on linkedIn: in/héla-younsi
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I can sleep everywhere !!! :laughing:
+- 📫 How to reach me on Email or on my linkedIn account.
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
